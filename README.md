@@ -1,4 +1,4 @@
-# Discord_Bot-Ep1
+# Discord_Bot-Ep1 
 # How to make your first bot
 This is a basic coding for discord bot only for beginner [how to create discord bot]
 
@@ -6,8 +6,8 @@ This is a basic coding for discord bot only for beginner [how to create discord 
 # END USER SETUP (UBUNTU VERSION)
 Download the repository to a folder and install dependencies.
 mkdir Announcer
-git clone https://github.com/daniel11420/announcer.git ~/Announcer
-cd ~/Announcer
+git clone https://github.com/sapcraft-org/Discord_Bot-Ep1
+cd ~/Discord_Bot-Ep1
 npm install
 Set the bot up (configuration file(s))
 mkdir local
@@ -15,8 +15,8 @@ cp example_local/* local/
 cd local
 vim main.js
 Run the bot once to see if it works
-cd ~/Announcer
-npm run-script run-announcer
+cd ~/Discord_Bot-Ep1
+npm run-script run-Discord_Bot-Ep1
 
 # For Node.js User only
  # [creating bot] #

@@ -1,4 +1,5 @@
 const Discord = require('discord.js');
+const TOKEN = process.env.TOKEN;
 const client = new Discord.Client();
 
 client.on('ready', () => {
@@ -10,5 +11,3 @@ client.on('message', msg => {
     msg.reply('SapBot Came Online!');
   }
 });
-
-client.login('put your bot token');

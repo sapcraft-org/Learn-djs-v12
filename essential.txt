@@ -1,4 +1,4 @@
-##Well there now i am going to teach you how to learn djs v12 easily [discord.js version 12]
+# Well there now i am going to teach you how to learn djs v12 easily [discord.js version 12]
 
 Before we start we need some essentials for coding 
 (A) Node.js. 
